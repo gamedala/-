@@ -1,0 +1,20 @@
+[Adblock Plus 2.0]
+! Checksum: oHC5nXsbqJcF5s3Maqgdqw
+! Version: 202205282325
+! Title: EasyList China+EasyList
+! Last modified: 28 May 2022 23:25 UTC
+! Expires: 1 days (update frequency)
+! Homepage: https://github.com/easylist/easylistchina/
+!
+! EasyList China and EasyList combination subscription
+!
+! *** easylistchina:easylistchina.txt ***
+! Chinese supplement for the EasyList filters
+! License: https://easylist-downloads.adblockplus.org/COPYING
+!
+! Please report any unblocked adverts or problems
+! on GitHub (https://github.com/easylist/easylistchina/issues)
+! or via e-mail (easylist.china@gmail.com).
+!
+!-----------------------General advert blocking filters-----------------------!
+webmota.com###_adr_abp_container_2
