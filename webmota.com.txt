@@ -18,4 +18,3 @@
 !
 !-----------------------General advert blocking filters-----------------------!
 webmota.com###_adr_abp_container_2
-webmota.com##.l-content
