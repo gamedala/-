@@ -17,4 +17,4 @@
 ! or via e-mail (easylist.china@gmail.com).
 !
 !-----------------------General advert blocking filters-----------------------!
-webmota.com###_adr_abp_container_*.*
+webmota.com###_adr_abp_container_*
